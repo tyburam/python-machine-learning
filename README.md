@@ -1,2 +1,2 @@
 # python-machine-learning
-No AI libraries, just own implementation
+Own implementations and some basic usage of scikit-learn
